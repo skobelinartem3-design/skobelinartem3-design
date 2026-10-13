@@ -1,4 +1,4 @@
-# 👋 Hello World! I am Artem
+# Privet! I am Artem
 
 * Student at Kemsu (FIT)
 * сCurrently learning C++ and Git Bash
